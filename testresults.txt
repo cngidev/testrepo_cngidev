@@ -1,0 +1,83 @@
+Succeeded:58
+Avg mSec:6537 msec
+Failed:10
+1st fail:7
+Ignored:0
+Total:68
+Disc.:176
+Number of concurrent virtual users (tunes):2
+Tune delay (mSec):0 msec
+Each tune will last between (mSec):500 - 1000 msec
+Users share channels:True
+Repeat until stop:False
+Sync:True
+
+#	Time	State	Channel	mSec	Name	Card	Disc.	Details	
+14	11:53:45 AM	ERR	SYFY	40682	stress-7	7	0	No PMT found	
+19	11:54:30 AM	ERR	SPDV	40676	stress-103	7	0	No PMT found	
+21	11:55:12 AM	ERR	GOLF	40677	stress-103	7	0	No PMT found	
+28	11:56:01 AM	ERR	GOLF	40693	stress-7	7	0	No PMT found	
+30	11:56:42 AM	ERR	TRAVL	40690	stress-7	7	0	No PMT found	
+32	11:57:24 AM	ERR	SPDV	40660	stress-7	7	0	No PMT found	
+46	11:58:03 AM	ERR	ANPLT	22411	stress-7	7	0	No signal	
+59	11:58:57 AM	ERR	TRAVL	40710	stress-103	7	0	No PMT found	
+67	11:59:45 AM	ERR	ANPLT	40426	stress-103	3	0	No PMT found	
+7	11:52:58 AM	ERR	SYFY	40690	stress-103	7	0	No PMT found	
+1	11:52:11 AM	OK	CNBC	1186	stress-103	6	0		
+10	11:53:01 AM	OK	VH1	885	stress-7	6	4		
+11	11:53:03 AM	OK	HGTV	1126	stress-103	3	6		
+12	11:53:04 AM	OK	FSALT	897	stress-7	6	4		
+13	11:53:04 AM	OK	ESPN2	614	stress-103	3	6		
+15	11:53:46 AM	OK	FOX	944	stress-103	6	0		
+16	11:53:47 AM	OK	FX	1155	stress-7	3	0		
+17	11:53:48 AM	OK	ABC	685	stress-103	6	0		
+18	11:53:50 AM	OK	HIST	1004	stress-7	3	0		
+2	11:52:12 AM	OK	ESPN	1152	stress-7	3	0		
+20	11:54:31 AM	OK	TLC	893	stress-7	6	0		
+22	11:55:13 AM	OK	TWC	608	stress-7	6	1		
+23	11:55:15 AM	OK	NBCSP	1442	stress-103	3	0		
+24	11:55:16 AM	OK	AMC	831	stress-7	6	1		
+25	11:55:17 AM	OK	BTN	722	stress-103	3	0		
+26	11:55:19 AM	OK	NBCSP	1365	stress-7	6	1		
+27	11:55:20 AM	OK	MSNBC	1128	stress-103	3	0		
+29	11:56:01 AM	OK	NGEO	893	stress-103	6	0		
+3	11:52:13 AM	OK	WGN	1179	stress-103	6	3		
+31	11:56:43 AM	OK	TLC	858	stress-103	6	4		
+33	11:57:25 AM	OK	CBS	1183	stress-103	6	4		
+34	11:57:27 AM	OK	DISC	997	stress-7	3	0		
+35	11:57:28 AM	OK	TWC	932	stress-103	6	4		
+36	11:57:29 AM	OK	WGN	804	stress-7	3	0		
+37	11:57:30 AM	OK	WOSU	863	stress-103	6	4		
+38	11:57:31 AM	OK	NGEO	798	stress-7	3	0		
+39	11:57:33 AM	OK	USA	1118	stress-103	6	7		
+4	11:52:14 AM	OK	WOSU	931	stress-7	3	0		
+40	11:57:33 AM	OK	MSNBC	918	stress-7	3	4		
+41	11:57:36 AM	OK	TNT	2355	stress-103	6	7		
+42	11:57:37 AM	OK	TCM	953	stress-7	3	4		
+43	11:57:38 AM	OK	HIST	1189	stress-103	6	7		
+44	11:57:39 AM	OK	TBS	988	stress-7	3	4		
+45	11:57:40 AM	OK	SPIKE	974	stress-103	6	7		
+47	11:58:04 AM	OK	ESPN	952	stress-103	6	8		
+48	11:58:05 AM	OK	FSNO	165	stress-7	2	8		
+49	11:58:05 AM	OK	FSNO	141	stress-103	2	8		
+5	11:52:16 AM	OK	AMC	1149	stress-103	6	7		
+50	11:58:07 AM	OK	HGTV	777	stress-7	6	0		
+51	11:58:08 AM	OK	NBC	1221	stress-103	3	0		
+52	11:58:09 AM	OK	CBS	867	stress-7	6	2		
+53	11:58:10 AM	OK	FSALT	885	stress-103	3	0		
+54	11:58:11 AM	OK	USA	880	stress-7	6	2		
+55	11:58:12 AM	OK	TCM	1091	stress-103	3	4		
+56	11:58:13 AM	OK	BTN	843	stress-7	6	4		
+57	11:58:15 AM	OK	FX	1167	stress-103	3	4		
+58	11:58:16 AM	OK	FOX	948	stress-7	6	7		
+6	11:52:17 AM	OK	CNBC	1208	stress-7	3	0		
+60	11:58:58 AM	OK	TNT	850	stress-7	6	7		
+61	11:58:59 AM	OK	TBS	1249	stress-103	3	0		
+62	11:59:00 AM	OK	FOOD	651	stress-7	6	7		
+63	11:59:01 AM	OK	VH1	766	stress-103	3	0		
+64	11:59:02 AM	OK	ESPN2	620	stress-7	6	7		
+65	11:59:04 AM	OK	FOOD	933	stress-103	3	0		
+66	11:59:05 AM	OK	ABC	1200	stress-7	6	7		
+68	11:59:47 AM	OK	SPIKE	1064	stress-7	6	12		
+8	11:52:59 AM	OK	NBC	846	stress-7	6	0		
+9	11:53:00 AM	OK	DISC	1166	stress-103	3	0		
